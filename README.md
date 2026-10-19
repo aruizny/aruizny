@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Angelo 👋
 
-<!--
-**aruizny/aruizny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior IT Consultant & Systems Administrator · Full-stack developer · Creator of Mainframe ERP**
+20+ years keeping businesses running, from the server room to the browser. Based in New York.
 
-Here are some ideas to get you started:
+### 🛠️ What I build & run
+- **Mainframe ERP**: field-service ERP for fire alarm & life-safety companies (web + native iOS technician app)
+- **Infrastructure**: Azure, Microsoft 365, Active Directory, SonicWall, Hyper-V
+- **Automation**: Python, Bash, PowerShell
+- **Web stack**: PHP / LAMP, JavaScript / MERN, MySQL, MongoDB, SwiftUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔒 About my repos
+Most of my work is client and production code kept in **private repositories**.
+The contribution graph below reflects that activity.
+
+### 🔗 Find me
+[Portfolio](https://angeloruiz.com) · [Blog](https://blog.angeloruiz.com) · [LinkedIn](https://linkedin.com/in/arcode)
